@@ -14,12 +14,12 @@
         {
             "position": "0.2 0.32",
             "isUnderneathHull": false,
-            "allowsRotation": false
+            "allowsRotation": true
         },
         {
             "position": "0.2 0.68",
             "isUnderneathHull": false,
-            "allowsRotation": false
+            "allowsRotation": true
         }
     ],
     "rigidBody": {"name":"Name","imagePath":"../DestinationSol/modules/empire/assets/ships/empireMedium/empireMedium.png","origin":{"x":0.5,"y":0.5},

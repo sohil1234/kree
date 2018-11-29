@@ -3,13 +3,13 @@
         "constantAllies": [
             {
                 "hull": "core:imperialMedium",
-                "items": "core:fixedGun 0.5|core:lightArmor 0.75|core:smallShield+core:shield",
+                "items": "kree:destroyer 0.5|core:lightArmor 0.75|core:smallShield+core:shield",
                 "density": 2
             },
 
             {
                 "hull": "core:imperialCapital",
-                "items": "core:gun+core:blaster core:gun+core:blaster core:advancedArmor core:advancedShield",
+                "items": "core:gun+kree:destroyer core:gun+core:blaster core:advancedArmor core:advancedShield",
                 "repairer": true,
                 "density": 1,
 
