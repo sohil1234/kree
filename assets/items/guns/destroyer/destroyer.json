@@ -6,7 +6,7 @@
     "timeBetweenShots": 0.6,
     "reloadTime": 0.5,
     "price": 3000,
-    "clipName": "core:missileClip",
+    "clipName": "kree:destroyerClip",
     "gunLength": 0.2,
     "texLenPerc": 0.87,
     "displayName": "destroyer",

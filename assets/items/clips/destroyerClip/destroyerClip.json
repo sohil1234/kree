@@ -1,0 +1,8 @@
+{
+    "projectile": "destroyer",
+    "size": 10000,
+    "price": 50,
+    "displayName": "misstile",
+    "plural": "misstiles",
+    "iconName": "destroyerClip"
+}
