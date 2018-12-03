@@ -1,5 +1,5 @@
 {
-    "hull": "core:station",
+    "hull": "kree:kreestation",
     "items": "core:gun core:gun",
 
     "guard": {
